@@ -1,0 +1,5 @@
+fastapi[standard]>=0.128.5
+pyjwt>=2.11.0
+pwdlib[argon2]==0.3.0
+sqlmodel>=0.0.32
+unicorn==2.1.4
